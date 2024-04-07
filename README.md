@@ -85,6 +85,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon API GateWay-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </p>
 
