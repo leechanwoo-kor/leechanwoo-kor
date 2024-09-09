@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
 <img src="https://img.shields.io/badge/Jira Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
