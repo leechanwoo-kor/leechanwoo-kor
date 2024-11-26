@@ -90,6 +90,7 @@
 <img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon API GateWay-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <br>
